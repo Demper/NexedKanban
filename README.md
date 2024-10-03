@@ -7,7 +7,7 @@ The project is designed with a structure that encourages (first-year) students t
 
 ## Software
 
-- [PHP 8.3 >](https://www.php.net/archive/2024.php#2024-09-26-1)
+- [PHP ^8.3](https://www.php.net/archive/2024.php#2024-09-26-1)
 - [SlimFramework](https://www.slimframework.com/)
 - [Petite Vue](https://github.com/vuejs/petite-vue)
 - [SQLite](https://www.sqlite.org/)
