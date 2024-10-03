@@ -1,9 +1,9 @@
 # Nexed Kanban
-A Simple Kanban App for NexEd longterm planning.
+A Basic Kanban App for NexEd Long-Term Planning
 
-For Bit Academy students it is difficult make it an educated planning for the long term. Specially the first-year students. With this App we create a simple Kanban to plan a long term goal such as the VSA or BSA.
+For Bit Academy students, especially those in their first year, creating a long-term plan can be challenging. This app offers a simple Kanban system to help students organize and plan for long-term goals, such as achieving their VSA or BSA.
 
-The setup is structured with the idea that (first-year) students can contribute to this project and learn. 
+The project is designed with a structure that encourages (first-year) students to actively contribute to its development.
 
 ## Software
 
