@@ -1,5 +1,10 @@
 __*
 .idea
+.vscode/
 vendor/
-composer.lock
+/coverage/
+/vendor/
+/logs/*
+!/logs/README.md
+.phpunit.result.cache
 phpunit.xml.dist
